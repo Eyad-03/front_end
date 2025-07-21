@@ -7,3 +7,4 @@ in this report we will learn html,css,js
 | 2 | Tools | [Link](./classes/class2.md) |
 | 3 | html | [Link](./classes/class3.md) |
 | 4 | grid,css | [Link](./classes/class4.md) |
+| 5 | navbar | [Link](./classes/class5.md) |
