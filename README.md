@@ -8,3 +8,4 @@ in this report we will learn html,css,js
 | 3 | html | [Link](./classes/class3.md) |
 | 4 | grid,css | [Link](./classes/class4.md) |
 | 5 | navbar | [Link](./classes/class5.md) |
+| 6 | navbar 2 | [Link](./classes/class6.md) |
