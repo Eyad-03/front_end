@@ -132,9 +132,9 @@ color: #4D4D4D;
 
 .side button
 {
-    background-color: #00d441; /* Bright green */
+    background-color: #00d441;
     color: white;
-    font-size: 14px;  /* Reduced from 18px */
+    font-size: 14px;  
     font-family: Arial, sans-serif;
     padding-top: -20px;
     border: none;
@@ -154,7 +154,7 @@ color: #4D4D4D;
     .circle-bg {
       width: 420px;
       height: 420px;
-      background: #4ade80; /* green */
+      background: #4ade80; 
       border-radius: 50%;
       position: relative;
       z-index: 1;
@@ -165,7 +165,7 @@ color: #4D4D4D;
       top: 10px;
       left: 8%;
       height: 360px;
-      z-index: 1; /* In front of circle */
+      z-index: 1; 
       border-radius: 50%;
     }
 
@@ -181,7 +181,7 @@ color: #4D4D4D;
       font-weight: bold;
       display: flex;
       align-items: center;
-      z-index: 3; /* Above all */
+      z-index: 3; 
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
 
