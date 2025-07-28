@@ -1,26 +1,26 @@
 #nav{
-    background-color: aqua;
+    background-color: rgb(164, 182, 182);
     width: 100%;
     height: 100%;
     grid-area: nav;
 }
 
 #menu{
-    background-color: rgb(255, 102, 0);
+    background-color: rgb(132, 106, 89);
     width: 100%;
     height: 100%;
     grid-area: menu;
 }
 
 #main{
-    background-color: rgb(0, 255, 89);
+    background-color: white;
     width: 100%;
     height: 600px;
     grid-area: main;
 }
 
 #footer{
-    background-color: rgb(255, 0, 179);
+    background-color: rgb(164, 182, 182);
     width: 100%;
     height: 100%;
     grid-area: footer;
@@ -32,4 +32,10 @@
     grid-template-areas:"nav nav nav"
     "menu main main"
     "menu footer footer" ;
+}
+
+body
+{
+margin: 0px;
+
 }
