@@ -1,4 +1,4 @@
-var age =22
+/*var age =22
 var userName="Ahmad"
 var isStudent=true;
 var mark=null
@@ -26,3 +26,57 @@ homeLink.innerHTML="Home Link"
 var gridImage=document.getElementsByClassName('gridImage')[1]
 console.log(gridImage)
 gridImage.src= "../media/women.png"
+*/
+
+/*
+var x=5
+
+if(x>=8)
+{
+
+   console.log('x is greater or equal 8') 
+}    
+
+else if(x>=5)
+{
+
+   console.log('x is greater or equal 5') 
+} 
+
+else 
+{
+
+   console.log('x is not') 
+} 
+*/
+var x=5
+switch(x)
+{
+
+case 4 :
+    console.log('x is 4')
+    break;
+
+case 5 :
+    console.log('x is 5')
+    break;
+
+default :
+    console.log('x is nan')
+    
+
+}
+
+function check()
+{
+
+    var checkvalue=document.getElementById('checkvalue').value
+    var checkvalue2=document.getElementById('checkvalue2').value
+
+    var result = parseInt(checkvalue)+parseInt(checkvalue2)
+   var plus =document.getElementById('result')
+   plus.innerHTML=result
+
+ 
+
+}
